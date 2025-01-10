@@ -10,6 +10,4 @@
 <link rel="stylesheet" href="{{ asset('/assets/libs/datatables.net-bs5/css/dataTables.bootstrap5.min.css') }}" />
 
 
-<title>Modernize Bootstrap Admin</title>
-
-@vite([])
+<title>PTIK Lab Komputer</title>
